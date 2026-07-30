@@ -7,3 +7,15 @@ img{
     margin: 0 auto;
     border: solid black;
 }
+#resumo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#resumo p{
+     width:70%;
+     text-align: justify; 
+     border: solid 5px black;
+}
